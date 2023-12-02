@@ -1,4 +1,4 @@
-name: PaperKotlin
+name: PathMaker
 version: '${version}'
-main: xyz.jeelzzz.paperkotlin.PaperKotlin
+main: xyz.jeelzzz.pathmaker.PathMakerPlugin
 api-version: '1.20'
